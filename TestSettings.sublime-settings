@@ -1,0 +1,5 @@
+{
+    "caption": "caption_from_settings_file",
+    "init_text": "init_text_from_settings_file",
+    "done_text": "done_text_from_settings_file"
+}
